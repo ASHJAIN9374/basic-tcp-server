@@ -1,0 +1,13 @@
+Script started on 2024-04-05 23:30:32+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="55" LINES="14"]
+[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ gcc server.c -o server[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[1Pgcc cliente.c -o client[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[2Pgcc server.c -o server[C[C[C[C[Kgcc server.c -o server[1P[1P[1P[1P[1P[1P[1@c[1@l[1@i[1@e[1@n[1@t[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kclient
+[?2004l[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ ./cle=[K[Kiw[Kent -i [K[Ks 127.0.0.1 -p 12345
+[?2004lServer's IP Address is : 127.0.0.1
+Server's port number is : 12345
+Client port: 60554
+Enter an integer: 45
+Received sum from server: 55
+[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ exit script
+[?2004lexit
+bash: exit: script: numeric argument required
+
+Script done on 2024-04-05 23:32:43+05:30 [COMMAND_EXIT_CODE="2"]

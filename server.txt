@@ -1,0 +1,38 @@
+Script started on 2024-04-05 23:29:33+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="55" LINES="14"]
+[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ gcc server.c -o server[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[2Pgcc server.c -o server
+[?2004l[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ gcc server.c -o server[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[1Pgcc cliente.c -o client[C[C[C[C./server 127.0.0.1 12345 10[C[C[C[C[4Pgcc cliente.c -o client[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[2Pgcc server.c -o server[C[C[C[C[Kgcc server.c -o server[C[C[C[C./client 127.0.0.1 12344[C[C[C[C[2Pgcc server.c -o server[C[C[C[C[K./server -i 127.0.0.1 -p 12345 -c 10
+[?2004lIP Address is : 127.0.0.1
+port number is : 12345
+waiting to accept
+Connected to client at 127.0.0.1:60554
+waiting to accept
+Connected to client at 127.0.0.1:38048
+waiting to accept
+Received number from client: 45
+waiting to accept
+Received number from client: 29
+waiting to accept
+^C
+[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ end script
+[?2004lCommand 'end' not found, did you mean:
+  command 'gnd' from snap gnd (master)
+  command 'bnd' from deb bnd (5.0.1-3)
+  command 'and' from deb and (1.2.2-4.2)
+  command 'ent' from deb ent (1.2debian-3)
+  command 'nd' from deb nd (0.8.2-8build1)
+  command 'eid' from deb id-utils (4.6.28-20200521ss15dab)
+  command 'send' from deb mailutils-mh (1:3.14-1)
+  command 'send' from deb mmh (0.4-4)
+  command 'send' from deb nmh (1.7.1-11)
+  command 'ed' from deb ed (1.18-1)
+  command 'snd' from deb snd-gui-jack (22.1-1)
+  command 'snd' from deb snd-gui-pulse (22.1-1)
+  command 'snd' from deb snd-nox (22.1-1)
+  command 'emd' from deb emd (1.0.1-2)
+  command 'env' from deb coreutils (8.32-4.1ubuntu1)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;mohaklai_@Ubuntu22: ~/Downloads/2022A7PS0606G_assignment_3[01;32mmohaklai_@Ubuntu22[00m:[01;34m~/Downloads/2022A7PS0606G_assignment_3[00m$ exit script
+[?2004lexit
+bash: exit: script: numeric argument required
+
+Script done on 2024-04-05 23:32:36+05:30 [COMMAND_EXIT_CODE="2"]
